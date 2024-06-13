@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.big-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.small-container {
+  background-color: #000000;
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: bold;
+  padding: 10px;
+}
+.button {
+  cursor: pointer;
+  background-color: #ffffff;
+  background-size: cover;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+  border-radius: 10px;
+  color: #000000;
+  font-family: 'roboto';
+  font-size: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.small-container1 {
+  background-color: #ffffff;
+  background-size: cover;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading1 {
+  color: #000000;
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: bold;
+  padding: 10px;
+}
